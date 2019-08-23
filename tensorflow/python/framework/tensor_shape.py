@@ -1086,6 +1086,8 @@ class TensorShape(object):
     Args:
       other: Another TensorShape.
 
+# the game
+    
     Returns:
       True iff `self` is compatible with `other`.
 
